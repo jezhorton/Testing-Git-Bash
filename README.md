@@ -1,2 +1,1 @@
-# Calculator
-Simple Calculator
+Testing Git Bash commands
