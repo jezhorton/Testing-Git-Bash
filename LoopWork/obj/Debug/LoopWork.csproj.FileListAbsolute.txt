@@ -1,0 +1,7 @@
+C:\Users\Jez Horton\source\repos\Week3\Day2\LoopWork\LoopWork\bin\Debug\LoopWork.exe.config
+C:\Users\Jez Horton\source\repos\Week3\Day2\LoopWork\LoopWork\bin\Debug\LoopWork.exe
+C:\Users\Jez Horton\source\repos\Week3\Day2\LoopWork\LoopWork\bin\Debug\LoopWork.pdb
+C:\Users\Jez Horton\source\repos\Week3\Day2\LoopWork\LoopWork\obj\Debug\LoopWork.csproj.CoreCompileInputs.cache
+C:\Users\Jez Horton\source\repos\Week3\Day2\LoopWork\LoopWork\obj\Debug\LoopWork.exe
+C:\Users\Jez Horton\source\repos\Week3\Day2\LoopWork\LoopWork\obj\Debug\LoopWork.pdb
+C:\Users\Jez Horton\source\repos\Week3\Day2\LoopWork\LoopWork\obj\Debug\LoopWork.csprojAssemblyReference.cache
